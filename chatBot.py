@@ -3,8 +3,7 @@ from dotenv import load_dotenv
 import openai
 
 
-# Set up your OpenAI API credentials
-# openai.api_key = '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'
+
 
 # Load environment variables from .env file
 load_dotenv()
